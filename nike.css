@@ -335,7 +335,7 @@ body{
     display: flex;
     direction: rtl;
     padding-top: 40px;
-    padding-right: 40px;
+  
   padding-top: 20px;
   
   font-size: 1.3em;
@@ -344,9 +344,9 @@ body{
   ;}
 
   .m2{
-    padding-left: 19%;
+    padding-left: 30px;
     padding-top: 40px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: 600;
     color: #0000CD;
     
@@ -356,8 +356,8 @@ body{
     display: flex;
     border: 2px solid black;
     overflow: auto;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 10px;
+    margin-left: 10px;
     margin-top: 15px;
     padding-left: 20px;
     padding-right: 20px;
@@ -448,9 +448,9 @@ body{
 
   .z1{
     padding-top: 50px;
-    padding-left: 18%;
-    font-size: 1.4em;
-    font-weight: 600;
+    padding-left: 18px;
+    font-size: 1.3em;
+    font-weight: 700;
     padding-bottom: 30px;
     color: #0000CD;
   }
