@@ -1,4 +1,3 @@
-
 @media screen and (min-width:601px) and (max-width:5000px){
 *{
 
@@ -270,11 +269,14 @@ body{
 
 
 .z1{
-  margin-top: 60px;
-  margin-left: 39%;
-  font-size: 1.8em;
   color: #0000CD;
+  padding-right: 20px;
+  font-size: 1.7em;
+  font-weight: 700;
+  padding-left: 39%;
+  padding-top: 60px;
   padding-bottom: 20px;
+
 }
 
 
@@ -332,7 +334,8 @@ body{
   .m1{
     display: flex;
     direction: rtl;
-  padding-right: 20%;
+    padding-top: 40px;
+    padding-right: 40px;
   padding-top: 20px;
   
   font-size: 1.3em;
@@ -491,14 +494,3 @@ body{
   }
   
 }
-
-
-
-
- 
-
-
-
-
-
-
