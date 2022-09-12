@@ -1,3 +1,6 @@
+
+
+
 @media screen and (min-width:601px) and (max-width:5000px){
 *{
 
@@ -335,16 +338,19 @@ body{
     display: flex;
     direction: rtl;
     padding-top: 40px;
+    justify-content: center;
   
   padding-top: 20px;
   
   font-size: 1.3em;
   font-weight: 600;
   color: #DC143C;
-  ;}
+}
 
   .m2{
-    padding-left: 30px;
+     display: flex;
+    justify-content: center;
+    
     padding-top: 40px;
     font-size: 1.3em;
     font-weight: 600;
@@ -356,11 +362,10 @@ body{
     display: flex;
     border: 2px solid black;
     overflow: auto;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-top: 15px;
-    padding-left: 20px;
-    padding-right: 20px;
+    
   }
 
   .x1{
@@ -447,6 +452,8 @@ body{
 
 
   .z1{
+    display: flex;
+    justify-content: center;
     padding-top: 50px;
     padding-left: 18px;
     font-size: 1.3em;
