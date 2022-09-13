@@ -1,7 +1,7 @@
+@media screen and (min-width:401px) and (max-width:3000px){
 
 
 
-@media screen and (min-width:601px) and (max-width:5000px){
 *{
 
     padding: 0;
@@ -316,12 +316,14 @@ body{
  margin-top: 10px;
 
  color: blue;}
-
 }
 
 
 
-@media screen and  (max-width: 600px){
+
+
+
+@media screen and  (max-width: 400px){
 
 
   *{
@@ -426,19 +428,30 @@ body{
 
   }
   .xx1{
-    font-size: 1em;
-    font-weight: 600;
+    font-size: 0.8em;
+    font-weight: 700;
      direction: rtl;
      color: #0000CD;
      padding-top: 10px;
-
+     display :flex;
+     justify-content: center;
+ 
+     
   }
-  .mm6  ,.mm9 , .mm2 , .mm12 , .mm15 , .mm18 , .mm21{
+  
+    
+
+     
+   .mm2 ,.mm6  ,.mm9 , .mm2 , .mm12 , .mm15 , .mm18 , .mm21{
     color: rgb(0, 0, 0);
-    padding-left: 30%;
+   
     font-size: 1.2em;
     font-weight: 600;
     padding-top: 10px;
+    direction: rtl;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
   }
 
   .s1,.s2,.s3,.s4,.s5,.s6,.s7{
@@ -484,16 +497,18 @@ body{
 
   .uu2{
     color: #DC143C;
-    padding-left: 30%;
+    padding-right: 30%;
     font-size: 1.2em;
     font-weight: 600;
     padding-top: 10px;
+    direction: rtl;
+    letter-spacing: 2px;
 
   }
 
   .uu3{
     color: blue;
-    margin-left: 35%;
+    margin-left: 39%;
     margin-top: 10px;
     font-size: 1.5em;
     font-weight: 600;
@@ -501,3 +516,13 @@ body{
   }
   
 }
+
+
+
+
+ 
+
+
+
+
+
